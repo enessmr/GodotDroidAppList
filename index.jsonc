@@ -1,0 +1,9 @@
+{
+  // Example:
+  // "list1": "./list/dih.jsonc"
+  // If you want to comment, use jsonc.
+  // All of the app code must be written in Godot language. Will need .pck builds.
+  // Currently empty.
+  // external.jsonc will be supported (e.g community applist) WITH a custom PCK on GodotDroid.
+  // SGT64 GodotDroid will need a .pck to be used.
+}
